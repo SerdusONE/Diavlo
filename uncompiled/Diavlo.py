@@ -1,4 +1,3 @@
-# Source Generated with Decompyle++
 # File: Diavlo.pyc (Python 3.10)
 
 from pytransform import pyarmor_runtime
