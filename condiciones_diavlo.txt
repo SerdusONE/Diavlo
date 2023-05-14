@@ -1,0 +1,151 @@
+=================================
+TÉRMINOS Y CONDICIONES DEL Diavlo
+=================================
+
+1) No nos hacemos responsables del uso que le den nuestros clientes
+a este servicio.
+2) Si te gustaría que no puedan buscar tu nick en ninguna de nuestras funciones ni ahora ni nunca,
+entonces tendrás que comprar una WHITELIST DE NICKS.
+3) Si te gustaría poder tener más sesiones activas al mismo tiempo, entonces deberías comprar
+la extensión de los planes "EXTENDED (5€ / mes)"
+4) No se aceptan reembolsos bajo ninguna CIRCUNSTANCIA una vez adquieras el producto.
+(pueden haber excepciones)
+5) Al comprar cualquiera de nuestros productos admites haber leido cada uno de nuestros términos
+y condiciones además de haberlos aceptado.
+6) Tu tarifa será removida en el caso de que descubramos que andas intentando lucrarte con esto o que
+estás intentado hacer algún tipo de actividad delictiva contra nuestro programa.
+
+===================
+Información general
+===================
+
+-> ¿Qué es el Diavlo?
+
+El Diavlo es una script/tool/herramienta/programa que cuenta con 2 opciones y unas herramientas adicionales, ambas opciones se caracterizan para obtener
+la contraseña de un usuario únicamente con su nickname, actualmente estamos trabajando
+para mejorar el rendimiento y la funcionalidad de dicha script, además de ya estar experimentado
+nuevas opciones para que puedan ser agregadas en futuras actualizaciones. (Si téneis recomendaciones
+para esta script, agradeceriamos mucho que crearais un ticket en nuestro discord oficial y lo comentárais).
+
+-> ¿Qué hace el Diavlo Finder y el Diavlo MC?
+
+* El Diavlo Finder lo que hace es buscar en un montón de base de datos información relacionada de un nick, nombre o correo. (Dichas
+ bases de datos cuentan con más de 10 billones de datos), empleamos tanto bases de datos nuestras como de otros servicios.
+ (Estas databases están totalmente desencriptadas)
+* El Diavlo MC es una opción reservada para minecraft, esto nos permitirá obtener información de un nick de minecraft como su ip o 
+password, contamos con más de 6 millones de datos en total de servers de minecraft grandes como latinplay, gmip, omegacraft, etc. 
+
+-> ¿El Diavlo tendrá nuevas opciones y actualizaciones?
+
+Por supuesto que sí, de hecho actualmente estamos trabajando para mejorar el rendimiento de nuestra script y también en 
+nuevas opciones para agregarlas en futuras actualizaciones.
+
+-> ¿Qué datos almacena el Diavlo?
+
+El Diavlo no almacena ningún tipo de dato comprometedor, todos los datos que se intercambian entre la script y el servidor son totalmente cifrados y apenas
+cierras la script se borran tanto de nuestro servidor como del cliente, almacenamos cosas como tu usuario, contraseña, sesión del programa, y poco más.
+
+-> ¿Cómo puedo ser staff del Diavlo?
+
+Actualmente no buscamos a gente para nuestro equipo de STAFF, cuando estemos buscando se notificará con everyone en la sala de #anuncios,
+¡así que estate pendiente!
+
+=====================================
+Uso del Diavlo MC y del Diavlo Finder
+=====================================
+- LinkFinder: Su uso es sencillo, simplemente cuando la script te lo pida tendrás que poner un nick relacionado a la persona o un correo suyo
+y esta intentará obtener contraseñas relacionadas al dato que pusiste. (El truco es ir probando con nicks parecidos, es decir si mi victima es
+por ejemplo laurita_2005 y al poner laurita_2005 la tool no me devolvio nada, prueba con nicks del tipo laurita2005, laura2005, otros nicks que tenga
+en sus redes sociales, etc).
+
+- LinkChecker: Simplemente introduce el nick de minecraft del usuario que quieras obtener información suya ¡y cruza los dedos!, por si no lo sabes todos los
+datos de nuestras bases de datos donde tenemos información de usuarios de servidores grandes de minecraft están encriptadas, para poder desencriptarlas utilizamos
+un método llamado bruteforce, el cual consiste en encriptar miles o millones de lineas de passwords de wordlists, y dar con el hash original. Dichas wordlist
+y script para hacer el bruteforce te lo damos nosotros mismos. Si consigue dar con el hash te dara la contraseña en verde por consola, en el caso de que no la encuentre
+te dirá en rojo que no encontro la contraseña, además en algunos casos no sale ni siquiera el apartado de password, eso es porque en 1 o 2 databases que tenemos algunos
+usuarios tienen el hash incompleto. Una vez abras el LinkChecker introduce el nick, y al darle a enter al programa te pedirá el directorio del wordlist para aplicarle el 
+bruteforce (cuantas más lineas tenga la wordlist más probabilidades hay de dar con el hash original y asi poder obtener la contraseña del usuario, recuerda que nuestra
+wordlist que damos a los usuarios apenas la compran cuenta con más de 14 millones de passwords, si quereis una aún más potente cread ticket y pedidnoslo), una vez cargue
+el archivo de bruteforce se os cargará la interfaz de cmd para el bruteforce y se aplicará el bruteforce con todos los resultados que encuentre de dicho nick.
+
+¡Importante!: Una vez pongas la wordlist y esta se cargue, si vuelves al menú principal, usas el linkfinder o vas a buscar info de otro nick no la tendrás que cargar de vuelta.
+(Recuerda que en el caso de que salgas del programa y lo vuelvas a abrir te pedirá que la importes de vuelta).
+
+=======
+Precios
+=======
+Tarifas actuales:
+
+Human - 10€ (Diavlo MC)  (10€/mes)
+Mazikeen - 10€ (Diavlo Finder)  (10€/mes)
+Lucifer - 15€ (Diavlo MC + Diavlo Finder) (15€/mes)
+
+Extended = (5€/mes [Tienes que tener una tarifa previamente ya comprada])
+
+✅ Soporte 24/7
+✅ Actualizaciones todos los meses
+✅ Sorteos todos los meses
+✅ Programa único en el mercado
+
+========================
+VENTAJAS DEL RANGO HUMAN
+========================
+¡Todas estás ventajas las tendrás mientras sigas teniendo tu tarifa!
+-> Podrás mantener un máximo de 2 sesiones activas al mismo tiempo
+-> Acceso a la opción de Diavlo MC
+-> Rol exclusivo  (Human) en nuestros servers de discord
+-> Rol (Human) en nuestro programa
+-> Acceso a un soporte PREMIUM en nuestro programa y en nuestro server de discord
+============================
+VENTAJAS DEL RANGO MAZIKEEN
+============================
+¡Todas estás ventajas las tendrás mientras sigas teniendo tu tarifa!
+-> Podrás mantener un máximo de 2 sesiones activas al mismo tiempo
+-> Acceso a la opción de Diavlo Finder
+-> Rol exclusivo  (MAZIKEEN) en nuestros servers de discord
+-> Rol (MAZIKEEN) en nuestro programa
+-> Acceso a un soporte PREMIUM en nuestro programa y en nuestro server de discord
+===========================
+VENTAJAS DEL RANGO LUCIFER 
+===========================
+¡Todas estás ventajas las tendrás mientras sigas teniendo tu tarifa!
+-> Podrás mantener un máximo de 2 sesiones activas al mismo tiempo
+-> Acceso a la opción de Diavlo Finder y a la opción Diavlo MC
+-> Rol exclusivo  (LUCIFER) en nuestros servers de discord
+-> Rol (LUCIFER) en nuestro programa
+-> Acceso a un soporte PREMIUM en nuestro programa y en nuestro server de discord
+====================
+VENTAJAS DE EXTENDED
+====================
+¡Todas estás ventajas las tendrás mientras sigas teniendo tu tarifa!
+-> Podrás mantener un máximo de 5 sesiones activas al mismo tiempo
+-> Notificación al usuario cuando haya terminado 
+-> Programa más optimizado
+-> Acceso a diversas opciones PREMIUM antes que al resto
+-> Acceso a un canal donde hacemos sorteos todos los meses (nitro, spotify, netflix, etc) 
+-> Rol exclusivo  (EXTENDED) en nuestros servers de discord
+-> Rol (EXTENDED) en nuestro programa
+-> Soporte con mucha mayor prioridad
+
+================
+whitelist nicks
+================
+----------------------------------------------------------------------------------------
+¿Para qué sirve esto?
+Con esta whitelist podrás hacer que los demás usuarios no puedan obtener la información
+de dichos nicks, ni ahora ni en un futuro.
+----------------------------------------------------------------------------------------
+-> Whitelist (3 nicks) (Diavlo MC) = 5€
+-> Whitelist (3 nicks) (Diavlo Finder) = 5€
+-> White (3 nicks) (Diavlo MC + Diavlo Finder) = 8€
+
+===============
+Equipo de STAFF
+===============
+
+CEO & Developers:
+ - SerLink04
+ - ItsJokerz
+ - Zen-Kun
+Admins:
+ Nadie

@@ -1,0 +1,29 @@
+--------------------------------------------------------------------------------------------------
+Spanish:
+
+======================
+Diavlo agradecimientos
+======================
+
+¡Muchísimas gracias por tu compra!
+
+¡Gracias a gente como tú podemos mantener a flote nuestros servidores, y darte
+el mejor servicio posible. Recuerda que para cualquier tipo de duda o bug puedes 
+reportarlo creando un ticket en nuestro discord de soporte o creando un ticket en nuestro porgrama!
+
+©️ Herramienta programada y diseñada por: SerLink04, ItsJokerz y Zen-Kun.
+--------------------------------------------------------------------------------------------------
+English:
+
+=======================
+Diavlo acknowledgements
+=======================
+
+Thank you very much for your purchase!
+
+Thanks to people like you we can keep our servers afloat, and give you the best possible service.
+the best possible service. Remember that if you have any questions or bugs you can report them by 
+report it by creating a ticket in our support discord or by creating a ticket at our program!
+
+©️ Tool coded and designed by: SerLink04, ItsJokerz and Zen-Kun.
+--------------------------------------------------------------------------------------------------
